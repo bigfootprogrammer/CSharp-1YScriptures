@@ -1,0 +1,15 @@
+C:\Users\joeli\source\repos\1YearScriptures\1YearScriptures\obj\Debug\net7.0\1YearScriptures.csproj.AssemblyReference.cache
+C:\Users\joeli\source\repos\1YearScriptures\1YearScriptures\obj\Debug\net7.0\1YearScriptures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeli\source\repos\1YearScriptures\1YearScriptures\obj\Debug\net7.0\1YearScriptures.AssemblyInfoInputs.cache
+C:\Users\joeli\source\repos\1YearScriptures\1YearScriptures\obj\Debug\net7.0\1YearScriptures.AssemblyInfo.cs
+C:\Users\joeli\source\repos\1YearScriptures\1YearScriptures\obj\Debug\net7.0\1YearScriptures.csproj.CoreCompileInputs.cache
+C:\Users\joeli\source\repos\1YearScriptures\1YearScriptures\bin\Debug\net7.0\1YearScriptures.exe
+C:\Users\joeli\source\repos\1YearScriptures\1YearScriptures\bin\Debug\net7.0\1YearScriptures.deps.json
+C:\Users\joeli\source\repos\1YearScriptures\1YearScriptures\bin\Debug\net7.0\1YearScriptures.runtimeconfig.json
+C:\Users\joeli\source\repos\1YearScriptures\1YearScriptures\bin\Debug\net7.0\1YearScriptures.dll
+C:\Users\joeli\source\repos\1YearScriptures\1YearScriptures\bin\Debug\net7.0\1YearScriptures.pdb
+C:\Users\joeli\source\repos\1YearScriptures\1YearScriptures\obj\Debug\net7.0\1YearScriptures.dll
+C:\Users\joeli\source\repos\1YearScriptures\1YearScriptures\obj\Debug\net7.0\refint\1YearScriptures.dll
+C:\Users\joeli\source\repos\1YearScriptures\1YearScriptures\obj\Debug\net7.0\1YearScriptures.pdb
+C:\Users\joeli\source\repos\1YearScriptures\1YearScriptures\obj\Debug\net7.0\1YearScriptures.genruntimeconfig.cache
+C:\Users\joeli\source\repos\1YearScriptures\1YearScriptures\obj\Debug\net7.0\ref\1YearScriptures.dll
